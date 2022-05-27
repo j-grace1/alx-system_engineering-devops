@@ -6,3 +6,4 @@ empty creates an empty fille clalled hello
 5-execute makes hello executable
 6-multiple_permissions gives multiple permissions to hello
 \n 7-everybody gives permissons to owner groups and other users
+8-james_bond gives all permissions to other users
