@@ -4,3 +4,4 @@
 3-new_owner changes the owner of afile frome betty to hello
 empty creates an empty fille clalled hello
 5-execute makes hello executable
+6-multiple_permissions gives multiple permissions to hello
